@@ -5,12 +5,6 @@ Projeto locadora de carros.
 <h5>- Professor Bruno Nogueira<h5>
 <h5>- Turma 1000<h5>
   <div>
-<ul>
-<li>Ilessa Lobo</li>
-</ul>
-</div>
-<br>
-
 Itens obrigatórios
   <br>
 <ul>
