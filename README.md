@@ -31,7 +31,7 @@ e mais ampla dos conceitos. Existiu dificuldade em muitos ajustes, muitas pesqui
 💬 Das facilidades costumava aplicar anteriormente partes dos conceitos do SOLID, agora reconhecendo pela didática do professor ainda mais,
 a estruturação do projeto para mim sempre foi a parte mais facil, tanto a criação dos métodos, classes, interfaces, como a maioria
 das lógicas, tirando as mais complexas, as vezes se exige pesquisas externas e/ou implementações de classes da documentação. 
-Quando com maior disponibilidade costumo efetivar a refatoração do que vejo que poderia se melhorado, como quando primeiramente elaboro
+Quando com maior disponibilidade costumo efetivar a refatoração do que vejo que poderia ser melhorado, como quando primeiramente elaboro
 uma lógica mais simples ou que pode não atender totalmente de forma inicial, mas no refatoramento e testes se tornará mais inxuta.
 
 💬 Citando outra dificuldade, quando se está acostumado a codificar sem o uso impressão no console, a mente costuma "bugar".
